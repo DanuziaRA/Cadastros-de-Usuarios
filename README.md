@@ -1,7 +1,7 @@
 # Introdução
 Este repositório contém a implementação de um sistema de cadastro de usuários para um centro universitário, projetado para gerenciar diferentes perfis, incluindo pessoas físicas, pessoas jurídicas, professores, alunos e fornecedores. A aplicação é desenvolvida utilizando Create React App na linguagem JavaScript, proporcionando uma experiência de usuário fluida e interativa.
 
-![Demo Site Cadastro](https://github.com/DanuziaRA/Projeto-frontend-Cadastros/blob/main/SITE%20CADASTRO.mov)
+
 
 ## Estrutura do Projeto
 A estrutura do repositório é organizada em pastas que facilitam a navegação e a manutenção do código: 
