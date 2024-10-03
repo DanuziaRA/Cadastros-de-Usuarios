@@ -1,6 +1,11 @@
 # Introdução
 Este repositório contém a implementação de um sistema de cadastro de usuários para um centro universitário, projetado para gerenciar diferentes perfis, incluindo pessoas físicas, pessoas jurídicas, professores, alunos e fornecedores. A aplicação é desenvolvida utilizando Create React App na linguagem JavaScript, proporcionando uma experiência de usuário fluida e interativa.
 
+## Resultado
+
+
+
+https://github.com/user-attachments/assets/6cc56e3c-9b7c-4d78-bd6f-000b98eec7d2
 
 
 ## Estrutura do Projeto
