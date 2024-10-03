@@ -20,8 +20,10 @@ A estrutura do repositório é organizada em pastas que facilitam a navegação 
 
 ## Executando o Projeto
 Para iniciar o servidor de desenvolvimento, execute:
+![Start](https://github.com/DanuziaRA/Projeto-frontend-Cadastros/blob/main/C%C3%B3digo%201.jpg)
 
 ou, se você estiver usando Yarn:
+![yarn](https://github.com/DanuziaRA/Projeto-frontend-Cadastros/blob/main/C%C3%B3digo%202.jpg)
 
 Isso carregará o aplicativo em http://localhost:3000.
 
@@ -70,6 +72,8 @@ In the project directory, you can run:
 
 ## yarn start
 Runs the app in the development mode.
+![yarn](https://github.com/DanuziaRA/Projeto-frontend-Cadastros/blob/main/C%C3%B3digo%202.jpg)
+
 Open http://localhost:3000 to view it in the browser.
 
 The page will reload if you make edits.
