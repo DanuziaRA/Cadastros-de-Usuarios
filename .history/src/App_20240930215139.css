@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 3px;
+  padding: 0px;
+  font-family: Helvetica;
+  font-size: 16px;
+  text-shadow: #0c0c0c 1px 1px;
+  background-color:rgb(202, 201, 200)
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  background-image: url("src/assets/119383-OPTJFE-785.jpg");
+  background-size: cover;
+  background-position: center;
+  
+}

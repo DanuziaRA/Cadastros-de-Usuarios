@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: px;
+  padding: 2px;
+  font-family: sans-serif;
+  font-size: 14px;
+  text-shadow: #0d0d0d 0.7px 0.7px;
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: left;
+  background-image: url("src/assets/fundo cadastro.jpg");
+  background-size: cover;
+  background-position: center; 
+  }
+  
+

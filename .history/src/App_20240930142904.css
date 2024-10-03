@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 3px;
+  padding: 0px;
+  font-family: Helvetica;
+  font
+  text-shadow: #0c0c0ce1 1px 1px;
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: left;
+  background-image: url("src/assets/pexels-googledeepmind-17483873.jpg");
+  background-size: cover;
+  background-position: center;
+  
+}

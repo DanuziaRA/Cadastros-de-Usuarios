@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+}
+.navbar-logo h1{
+    display: flex;
+    align-items:left;
+    color: #2d5ac4e1;
+    font-size: 20px;;
+}
+.navbar-links {
+list-style-type: none;
+display: flex;
+gap: 20px;
+alig
+}
+.navbar-links to {
+    
+}

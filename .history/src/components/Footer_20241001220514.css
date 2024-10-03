@@ -1,0 +1,6 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: left;
+    background-color:rgb(221, 226, 230)

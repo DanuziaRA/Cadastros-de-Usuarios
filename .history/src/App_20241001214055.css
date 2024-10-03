@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 6px;
+  padding: 0px;
+  font-family: Helvetica;
+  font-size: 16px;
+  text-shadow: #7781d9 0.7px 0.7px;
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: left;
+  background-size: cover;
+  background-image: url("src/assets/Fundo minimalista cadastro 4.jpg");
+  background-position: center; 
+  }
+  
+

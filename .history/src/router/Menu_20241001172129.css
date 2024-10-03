@@ -1,0 +1,16 @@
+nav li{
+    width: 30%;
+    height: 70%;
+    outline: none;
+    font-size: 16px;
+    color: #070000;
+    padding: 10px 20px;
+    margin: 15px;
+    }
+nav li a{
+    color: #7a7a7a;
+    font-size: 16px;
+    text-decoration: none;
+
+}
+    

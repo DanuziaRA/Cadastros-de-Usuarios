@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: left;
+    background-color:rgb(210, 214, 218)
+    
+}
+.navbar-logo h1{
+    color: #06297ae1;
+    font-size: 25px;
+    align-items: center;
+
+    
+}
+.navbar-links {
+list-style-type: none;
+display: flex;
+gap: 20px;
+align-items: left;
+
+}
+.navbar li{
+    display: inline;
+    }
+.navbar-links li a {
+    color: #67789ee1;
+    text-decoration: none;
+}
+.navbar-links li a:hover{
+    color:#ddd;
+}
