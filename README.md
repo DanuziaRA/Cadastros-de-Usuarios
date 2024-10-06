@@ -5,7 +5,9 @@ Este repositório contém a implementação de um sistema de cadastro de usuári
 
 
 
-https://github.com/user-attachments/assets/6cc56e3c-9b7c-4d78-bd6f-000b98eec7d2
+https://github.com/user-attachments/assets/627cd124-daf9-4e22-b2c4-558c628004d6
+
+
 
 
 ## Estrutura do Projeto
