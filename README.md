@@ -27,15 +27,6 @@ A estrutura do repositório é organizada em pastas que facilitam a navegação 
 
 /api: Integração com a API para gerenciar o armazenamento e a recuperação de dados.
 
-## Da Execução do Projeto
-Para iniciar o servidor de desenvolvimento, execute:
-![Start](https://github.com/DanuziaRA/Projeto-frontend-Cadastros/blob/main/C%C3%B3digo%201.jpg)
-
-ou, se você estiver usando Yarn:
-![yarn](https://github.com/DanuziaRA/Projeto-frontend-Cadastros/blob/main/C%C3%B3digo%202.jpg)
-
-Isso carregará o aplicativo em http://localhost:3000.
-
 ## Das Funcionalidades Principais
 1. Cadastro de Usuários: Formulários adaptados para cada tipo de usuário, com validações específicas para garantir dados corretos e completos. 
 
@@ -44,6 +35,15 @@ Isso carregará o aplicativo em http://localhost:3000.
 3. Feedback em Tempo Real: Mensagens de validação instantâneas para cada campo dos formulários, melhorando a usabilidade. 
 
 4. Navegação Intuitiva: Uso do React Router para gerenciar rotas e permitir transições suaves entre as diferentes seções do site, como cadastro, listagem e detalhes dos usuários.
+
+## Da Execução do Projeto
+Para iniciar o servidor de desenvolvimento, execute:
+![Start](https://github.com/DanuziaRA/Projeto-frontend-Cadastros/blob/main/C%C3%B3digo%201.jpg)
+
+ou, se você estiver usando Yarn:
+![yarn](https://github.com/DanuziaRA/Projeto-frontend-Cadastros/blob/main/C%C3%B3digo%202.jpg)
+
+Isso carregará o aplicativo em http://localhost:3000.
       
 ## 
 
